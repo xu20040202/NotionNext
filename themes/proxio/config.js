@@ -38,29 +38,27 @@ const CONFIG = {
   // 特性区块
   PROXIO_FEATURE_ENABLE: true, // 特性区块开关
   PROXIO_FEATURE_TITLE: '为什么选我',
-  PROXIO_FEATURE_TEXT_1: '我能让您的项目焕发光彩',
-  PROXIO_FEATURE_TEXT_2: '丰富的案例经验，专业的技术服务，优质的沟通效率',
+  PROXIO_FEATURE_TEXT_1: '我能为项目建立清晰且具有内在逻辑的体验结构，并赋予其艺术性的表达',
+  PROXIO_FEATURE_TEXT_2: '以深度理解与抽象能力为基础，将设计概念转化为兼具结构与表达的游戏体验',
 
   // 特性1
-  PROXIO_FEATURE_1_ICON_CLASS: 'fa-solid fa-stopwatch', // fas图标
+  PROXIO_FEATURE_1_ICON_CLASS: 'fa-solid fa-eye', // fas图标
   PROXIO_FEATURE_1_ICON_IMG_URL: '', // 图片图标选填，默认是fas图标，如果需要图片图标可以填写图片地址，示例/avatar.png
-  PROXIO_FEATURE_1_TITLE_1: '高效工作流程',
+  PROXIO_FEATURE_1_TITLE_1: '深度鉴赏与体验判断',
   PROXIO_FEATURE_1_TEXT_1:
-    '精简的设计流程确保快速交付，在紧迫的工期下仍能保证品质与细节不打折扣。',
+    '从结构、关系与生成逻辑出发理解作品，超越表层体验，形成稳定且有依据的判断',
 
-  PROXIO_FEATURE_2_ICON_CLASS: 'fa-solid fa-comments',
+  PROXIO_FEATURE_2_ICON_CLASS: 'fa-solid fa-brain',
   PROXIO_FEATURE_2_ICON_IMG_URL: '',
-  PROXIO_FEATURE_2_TITLE_1: '协作式流程',
-  PROXIO_FEATURE_2_TEXT_1: '与你紧密合作，融合反馈意见，打造超越预期的设计',
+  PROXIO_FEATURE_2_TITLE_1: '结构抽象与概念生成',
+  PROXIO_FEATURE_2_TEXT_1:
+    '从具体经验中抽离出结构与命题，据此生成具有内在逻辑的设计概念',
 
-  PROXIO_FEATURE_3_ICON_CLASS: 'fa-solid fa-search',
+  PROXIO_FEATURE_3_ICON_CLASS: 'fa-solid fa-people-group',
   PROXIO_FEATURE_3_ICON_IMG_URL: '',
-  PROXIO_FEATURE_3_TITLE_1: '细节把控',
+  PROXIO_FEATURE_3_TITLE_1: '设计落地与协作推进',
   PROXIO_FEATURE_3_TEXT_1:
-    '精益求精雕琢每个元素，确保成品精致统一，令人过目难忘',
-
-  PROXIO_FEATURE_BUTTON_TEXT: '了解更多', // 按钮文字
-  PROXIO_FEATURE_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 按钮跳转
+    '将抽象概念转化为可被体验的内容，在团队中推动设计的实现与迭代',
 
   // 首页生涯区块
   PROXIO_CAREER_ENABLE: true, // 区块开关
