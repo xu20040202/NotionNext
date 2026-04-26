@@ -10,13 +10,13 @@ const CONFIG = {
   PROXIO_HERO_TITLE_1: '一片小草坪', // 英雄区文字
   PROXIO_HERO_TITLE_2: '一个种树的人', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
-  PROXIO_HERO_BUTTON_1_TEXT: '游戏项目与文章', // 英雄区按钮
+  PROXIO_HERO_BUTTON_1_TEXT: '游玩经历与文艺积累', // 英雄区按钮
   PROXIO_HERO_BUTTON_1_URL:
     'https://docs.tangly1024.com/article/vercel-deploy-notion-next', // 英雄区按钮
-  PROXIO_HERO_BUTTON_2_TEXT: '游玩经历与文艺积累', // 英雄区按钮
+  PROXIO_HERO_BUTTON_2_TEXT: '美术作品', // 英雄区按钮
   PROXIO_HERO_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
   PROXIO_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
-   PROXIO_HERO_BUTTON_3_TEXT: '美术作品', // 英雄区按钮
+  PROXIO_HERO_BUTTON_3_TEXT: '美术作品', // 英雄区按钮
   PROXIO_HERO_BUTTON_3_URL: 'https://daffy-wallflower-29e.notion.site/04c33d63e96a83538e86813e4f9ac90b?source=copy_link', // 英雄区按钮
 
   // 英雄区配图，如需隐藏，改为空值即可 ''
@@ -25,7 +25,7 @@ const CONFIG = {
 
   // 文章区块
   PROXIO_BLOG_ENABLE: true, // 首页博文区块开关
-  PROXIO_BLOG_TITLE: '作品',
+  PROXIO_BLOG_TITLE: '游戏项目与文章',
   PROXIO_BLOG_COUNT: 4, // 首页博文区块展示前4篇文章
   PROXIO_BLOG_TEXT_1: '我的最新动态',
 
