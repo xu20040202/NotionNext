@@ -88,7 +88,7 @@ const CONFIG = {
   ],
 
   // 首页用户测评区块
-  PROXIO_TESTIMONIALS_ENABLE: true, // 测评区块开关
+  PROXIO_TESTIMONIALS_ENABLE: false, // 测评区块开关
   PROXIO_TESTIMONIALS_TITLE: '用户反馈',
   PROXIO_TESTIMONIALS_TEXT_1: '我们的用户怎么说',
   PROXIO_TESTIMONIALS_TEXT_2:
@@ -153,7 +153,7 @@ const CONFIG = {
   ],
 
   //   FAQ 常见问题模块
-  PROXIO_FAQ_ENABLE: true, // 常见问题模块开关
+  PROXIO_FAQ_ENABLE: false, // 常见问题模块开关
   PROXIO_FAQ_TITLE: '常见问题解答',
   PROXIO_FAQ_TEXT_1: '有任何问题吗？请看这里',
   PROXIO_FAQ_TEXT_2: '我们收集了常见的用户疑问',
@@ -265,9 +265,9 @@ const CONFIG = {
   // 页面底部的行动呼吁模块
   PROXIO_CTA_ENABLE: true,
   PROXIO_CTA_TITLE: '与我建立联系',
-  PROXIO_CTA_TITLE_2: '让我们立刻启动您的项目',
+  PROXIO_CTA_TITLE_2: '种一颗树',
   PROXIO_CTA_DESCRIPTION:
-    '访问NotionNext的操作文档，我们提供了详细的教程，帮助你即刻搭建站点',
+    '一颗 一颗 一颗 一颗 一颗',
   PROXIO_CTA_BUTTON: true, // 是否显示按钮
   PROXIO_CTA_BUTTON_URL: '/about',
   PROXIO_CTA_BUTTON_TEXT: '联系我',
