@@ -15,9 +15,9 @@ const CONFIG = {
     'https://docs.tangly1024.com/article/vercel-deploy-notion-next', // 英雄区按钮
   PROXIO_HERO_BUTTON_2_TEXT: '游玩经历与文艺积累', // 英雄区按钮
   PROXIO_HERO_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
-  PROXIO_HERO_BUTTON_2_ICON: '/images/starter/github-mark.svg', // 英雄区按钮2的图标，不需要则留空
+  PROXIO_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
    PROXIO_HERO_BUTTON_3_TEXT: '美术作品', // 英雄区按钮
-  PROXIO_HERO_BUTTON_3_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
+  PROXIO_HERO_BUTTON_3_URL: 'https://daffy-wallflower-29e.notion.site/04c33d63e96a83538e86813e4f9ac90b?source=copy_link', // 英雄区按钮
 
   // 英雄区配图，如需隐藏，改为空值即可 ''
   PROXIO_HERO_BANNER_IMAGE: '', // hero区背景，默认是获取Notion背景，如需另外配置图片可以填写在这里
