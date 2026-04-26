@@ -20,7 +20,7 @@ const CONFIG = {
   PROXIO_HERO_BUTTON_3_URL: 'https://daffy-wallflower-29e.notion.site/04c33d63e96a83538e86813e4f9ac90b?source=copy_link', // 英雄区按钮
 
   // 英雄区配图，如需隐藏，改为空值即可 ''
-  PROXIO_HERO_BANNER_IMAGE: '', // hero区背景，默认是获取Notion背景，如需另外配置图片可以填写在这里
+  PROXIO_HERO_BANNER_IMAGE: 'https://pic1.imgdb.cn/item/69eddfde6dcdaf678a8bcaf4.png', // hero区背景，默认是获取Notion背景，如需另外配置图片可以填写在这里
   PROXIO_HERO_BANNER_IFRAME_URL: '', // hero背景区内嵌背景网页 ，可以配置一个网页地址，例如动画网页https://my.spline.design/untitled-b0c6e886227646c34afc82cdc6de4ca2/
 
   // 文章区块
