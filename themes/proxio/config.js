@@ -60,6 +60,9 @@ const CONFIG = {
   PROXIO_FEATURE_3_TEXT_1:
     '将抽象概念转化为可被体验的内容，在团队中推动设计的实现与迭代',
 
+    PROXIO_FEATURE_BUTTON_TEXT: '我的简历', // 按钮文字
+  PROXIO_FEATURE_BUTTON_URL: 'https://daffy-wallflower-29e.notion.site/34e33d63e96a802e94ece1fc8aca90a8?source=copy_link', // 按钮跳转
+
   // 首页生涯区块
   PROXIO_CAREER_ENABLE: true, // 区块开关
   PROXIO_CAREER_TITLE: '生涯',
