@@ -193,10 +193,13 @@ const CONFIG = {
   // 横向滚动文字
   PROXIO_BRANDS_ENABLE: true, // 滚动文字
   PROXIO_BRANDS: [
-    'Web Design',
-    'Logo Design',
-    'Mobile App Design',
-    'Product Design'
+    '关卡设计',
+    '玩法设计',
+    '概念设计',
+    '电子绘画',
+    '架上绘画',
+    '三维建模',
+    '视频创作',
   ],
 
   PROXIO_FOOTER_SLOGAN: '我们通过技术为品牌和公司创造数字体验。',
