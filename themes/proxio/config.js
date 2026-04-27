@@ -12,9 +12,9 @@ const CONFIG = {
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   PROXIO_HERO_BUTTON_1_TEXT: '游玩经历与文艺积累', // 英雄区按钮
   PROXIO_HERO_BUTTON_1_URL:
-    'https://xubohao.vercel.app/article/example-7', // 英雄区按钮
+    'https://xubohao.vercel.app/article/example-9', // 英雄区按钮
   PROXIO_HERO_BUTTON_2_TEXT: '美术作品', // 英雄区按钮
-  PROXIO_HERO_BUTTON_2_URL: 'https://xubohao.vercel.app/article/example-8', // 英雄区按钮
+  PROXIO_HERO_BUTTON_2_URL: 'https://xubohao.vercel.app/article/example-10', // 英雄区按钮
   PROXIO_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
 
   // 英雄区配图，如需隐藏，改为空值即可 ''
@@ -24,7 +24,7 @@ const CONFIG = {
   // 文章区块
   PROXIO_BLOG_ENABLE: true, // 首页博文区块开关
   PROXIO_BLOG_TITLE: '随笔、速写和小品',
-  PROXIO_BLOG_COUNT: 8, // 首页博文区块展示前8篇文章
+  PROXIO_BLOG_COUNT: 10, // 首页博文区块展示前10篇文章
   PROXIO_BLOG_TEXT_1: '游戏项目与文章',
 
   // 区块默认内容显示文章的summary文本，但也支持用自定义图片或logo德国替换掉占位显示内容
@@ -61,7 +61,7 @@ const CONFIG = {
     '将抽象概念转化为可被体验的内容，在团队中推动设计的实现与迭代',
 
     PROXIO_FEATURE_BUTTON_TEXT: '我的简历', // 按钮文字
-  PROXIO_FEATURE_BUTTON_URL: 'https://xubohao.vercel.app/article/example-10', // 按钮跳转
+  PROXIO_FEATURE_BUTTON_URL: 'https://xubohao.vercel.app/article/example-12', // 按钮跳转
 
   // 首页生涯区块
   PROXIO_CAREER_ENABLE: true, // 区块开关
@@ -187,7 +187,7 @@ const CONFIG = {
   PROXIO_ABOUT_KEY_4: '艺术作品数量',
   PROXIO_ABOUT_VAL_4: '20000+',
 
-    PROXIO_ABOUT_BUTTON_URL: 'https://xubohao.vercel.app/article/example-9',
+    PROXIO_ABOUT_BUTTON_URL: 'https://xubohao.vercel.app/article/example-11',
   PROXIO_ABOUT_BUTTON_TEXT: '我的生活',
 
   // 横向滚动文字
