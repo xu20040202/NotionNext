@@ -38,7 +38,7 @@ const CONFIG = {
   // 特性区块
   PROXIO_FEATURE_ENABLE: true, // 特性区块开关
   PROXIO_FEATURE_TITLE: '为什么选我',
-  PROXIO_FEATURE_TEXT_1: '我能为项目建立清晰且具有内在逻辑的体验结构，并赋予其艺术性的表达',
+  PROXIO_FEATURE_TEXT_1: '我能为项目建立清晰有逻辑的体验结构，赋予其艺术性表达',
   PROXIO_FEATURE_TEXT_2: '以深度理解与抽象能力为基础，将设计概念转化为兼具结构与表达的游戏体验',
 
   // 特性1
