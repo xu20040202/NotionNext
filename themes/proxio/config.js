@@ -60,8 +60,8 @@ const CONFIG = {
   PROXIO_FEATURE_3_TEXT_1:
     '将抽象概念转化为可被体验的内容，在团队中推动设计的实现与迭代',
 
-    PROXIO_FEATURE_BUTTON_TEXT: '我的简历', // 按钮文字
-  PROXIO_FEATURE_BUTTON_URL: 'https://daffy-wallflower-29e.notion.site/34e33d63e96a802e94ece1fc8aca90a8?source=copy_link', // 按钮跳转
+    PROXIO_FEATURE_BUTTON_TEXT: '谢谢观看', // 按钮文字
+  PROXIO_FEATURE_BUTTON_URL: '', // 按钮跳转
 
   // 首页生涯区块
   PROXIO_CAREER_ENABLE: true, // 区块开关
@@ -186,6 +186,9 @@ const CONFIG = {
   PROXIO_ABOUT_VAL_3: '5000+',
   PROXIO_ABOUT_KEY_4: '艺术作品数量',
   PROXIO_ABOUT_VAL_4: '20000+',
+
+    PROXIO_ABOUT_BUTTON_URL: 'https://daffy-wallflower-29e.notion.site/34e33d63e96a802e94ece1fc8aca90a8?source=copy_link',
+  PROXIO_ABOUT_BUTTON_TEXT: '关于我',
 
   // 横向滚动文字
   PROXIO_BRANDS_ENABLE: true, // 滚动文字
