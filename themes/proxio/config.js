@@ -66,25 +66,20 @@ const CONFIG = {
   // 首页生涯区块
   PROXIO_CAREER_ENABLE: true, // 区块开关
   PROXIO_CAREER_TITLE: '生涯',
-  PROXIO_CAREER_TEXT: '以下是我的职业生涯',
+  PROXIO_CAREER_TEXT: '以下是我的教育经历',
 
   // 生涯内容卡牌 ，title是标题 ，bio是备注，text是详情
   PROXIO_CAREERS: [
     {
-      title: 'Freelance Architect',
-      bio: '2016-2020',
-      text: 'As a freelance architect, I worked on a range of residential and commercial projects, balancing form and function. I collaborated with clients and contractors to transform concepts into reality, ensuring each design was both aesthetically pleasing and structurally sound.'
+      title: '中央美术学院附中',
+      bio: '2019-2023',
+      text: '系统接受基础美术训练，建立了对造型、构图与视觉语言的理解；在长期的绘画与创作实践中，逐步形成对画面构成与表达方式的敏感度，并开始关注作品中形式与内容之间的关系。培养了良好的审美旨趣和造型能力。主修课程：造型艺术（包括素描、色彩、速写、国画、书法等），设计基础。荣誉奖项：色彩作品《室内一角》留校收藏，下乡创作《塔》在中央美术学院展出'
     },
     {
-      title: 'Product Designer at Spotify',
-      bio: '2020-2022',
-      text: 'At Spotify, I helped shape innovative features for millions of users globally. My focus was on creating seamless music discovery experiences, enhancing user interfaces, and optimizing cross-platform navigation, which led to an improved product flow and increased user satisfaction.'
+      title: '中国传媒大学动画学院游戏艺术专业',
+      bio: '2023-Now',
+      text: '在学习过程中逐步将艺术背景转向游戏与互动媒介的理解，关注电子游戏作为一种新兴媒介的结构与表达方式；通过项目实践与理论阅读，形成从生活、艺术出发，以结构分析与体验设计为核心的思考路径，并尝试将抽象概念转化为具体的交互与关卡设计。主修课程：游戏策划，游戏创作，游戏关卡设计，游戏概念设计，三维游戏美术。荣誉奖项：“青创北京”2025年“挑战杯”人工智能+应用赛三等奖'
     },
-    {
-      title: 'Freelance Product Designer',
-      bio: '2022-Now',
-      text: 'Now I design user-centric products that align with client visions. As a freelance product designer, I collaborate with startups and established companies, crafting solutions that elevate user experiences and increase engagement across both digital and physical interfaces.'
-    }
   ],
 
   // 首页用户测评区块
