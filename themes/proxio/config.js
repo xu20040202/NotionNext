@@ -174,18 +174,18 @@ const CONFIG = {
   // 关于作者区块
   PROXIO_ABOUT_ENABLE: true, // 关于作者区块区块开关
   PROXIO_ABOUT_TITLE: '关于作者',
-  PROXIO_ABOUT_TEXT_1: 'I am an Architect Turned Into a Product Designer',
+  PROXIO_ABOUT_TEXT_1: '我以艺术创作的姿态进入游戏行业',
   PROXIO_ABOUT_TEXT_2:
-    'With a background in architecture, I now apply my expertise to product design, blending aesthetics, functionality, and innovation. My goal is to create modern, user-focused designs that bring your vision to life.',
+    '我将游戏理解为一种在时间中展开的艺术形式。在创作中，我从生活经验与艺术感受出发，将直观感知转化为有逻辑的体验结构，使表达能够通过机制与关卡自然呈现；同时在观念与实现之间持续进行校正，以严格标准推动思考与实践的统一，使项目既具艺术性，也具备可落地性。',
   PROXIO_ABOUT_PHOTO_URL: '/avatar.png',
-  PROXIO_ABOUT_KEY_1: '经验年限',
-  PROXIO_ABOUT_VAL_1: '10年+',
-  PROXIO_ABOUT_KEY_2: '客户',
+  PROXIO_ABOUT_KEY_1: '项目与理论研究',
+  PROXIO_ABOUT_VAL_1: '10+',
+  PROXIO_ABOUT_KEY_2: '阅读与艺术赏析数量',
   PROXIO_ABOUT_VAL_2: '1000+',
-  PROXIO_ABOUT_KEY_3: '交付项目',
+  PROXIO_ABOUT_KEY_3: '游戏体验时长（h）',
   PROXIO_ABOUT_VAL_3: '5000+',
-  PROXIO_ABOUT_KEY_4: '累积创作时长（小时）',
-  PROXIO_ABOUT_VAL_4: '10000+',
+  PROXIO_ABOUT_KEY_4: '艺术作品数量',
+  PROXIO_ABOUT_VAL_4: '20000+',
 
   PROXIO_ABOUT_BUTTON_URL: '/about',
   PROXIO_ABOUT_BUTTON_TEXT: '关于我',
