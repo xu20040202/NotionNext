@@ -12,9 +12,9 @@ const CONFIG = {
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   PROXIO_HERO_BUTTON_1_TEXT: '游玩经历与文艺积累', // 英雄区按钮
   PROXIO_HERO_BUTTON_1_URL:
-    'https://xubohao.vercel.app/article/example-8', // 英雄区按钮
+    'https://xubohao.vercel.app/article/example-7', // 英雄区按钮
   PROXIO_HERO_BUTTON_2_TEXT: '美术作品', // 英雄区按钮
-  PROXIO_HERO_BUTTON_2_URL: 'https://xubohao.vercel.app/article/example-9', // 英雄区按钮
+  PROXIO_HERO_BUTTON_2_URL: 'https://xubohao.vercel.app/article/example-8', // 英雄区按钮
   PROXIO_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
 
   // 英雄区配图，如需隐藏，改为空值即可 ''
@@ -187,7 +187,7 @@ const CONFIG = {
   PROXIO_ABOUT_KEY_4: '艺术作品数量',
   PROXIO_ABOUT_VAL_4: '20000+',
 
-    PROXIO_ABOUT_BUTTON_URL: 'https://xubohao.vercel.app/article/example-7',
+    PROXIO_ABOUT_BUTTON_URL: 'https://xubohao.vercel.app/article/example-9',
   PROXIO_ABOUT_BUTTON_TEXT: '我的生活',
 
   // 横向滚动文字
