@@ -177,7 +177,7 @@ const CONFIG = {
   PROXIO_ABOUT_TEXT_1: '我以艺术创作的姿态进入游戏行业',
   PROXIO_ABOUT_TEXT_2:
     '我将游戏理解为一种在时间中展开的艺术形式。在创作中，我从生活经验与艺术感受出发，将直观感知转化为有逻辑的体验结构，使表达能够通过机制与关卡自然呈现；同时在观念与实现之间持续进行校正，以严格标准推动思考与实践的统一，使项目既具艺术性，也具备可落地性。',
-  PROXIO_ABOUT_PHOTO_URL: '/avatar.png',
+  PROXIO_ABOUT_PHOTO_URL: 'https://pic1.imgdb.cn/item/69ef9be15b9ddfae24421ac3.jpg',
   PROXIO_ABOUT_KEY_1: '项目与理论研究',
   PROXIO_ABOUT_VAL_1: '10+',
   PROXIO_ABOUT_KEY_2: '阅读与艺术赏析数量',
