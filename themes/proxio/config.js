@@ -24,7 +24,7 @@ const CONFIG = {
   // 文章区块
   PROXIO_BLOG_ENABLE: true, // 首页博文区块开关
   PROXIO_BLOG_TITLE: '随笔、速写和小品',
-  PROXIO_BLOG_COUNT: 6, // 首页博文区块展示前6篇文章
+  PROXIO_BLOG_COUNT: 8, // 首页博文区块展示前8篇文章
   PROXIO_BLOG_TEXT_1: '游戏项目与文章',
 
   // 区块默认内容显示文章的summary文本，但也支持用自定义图片或logo德国替换掉占位显示内容
