@@ -181,7 +181,7 @@ const CONFIG = {
   PROXIO_ABOUT_KEY_1: '项目与理论研究',
   PROXIO_ABOUT_VAL_1: '10+',
   PROXIO_ABOUT_KEY_2: '阅读与艺术赏析数量',
-  PROXIO_ABOUT_VAL_2: '1000+',
+  PROXIO_ABOUT_VAL_2: '200+',
   PROXIO_ABOUT_KEY_3: '游戏体验时长（h）',
   PROXIO_ABOUT_VAL_3: '5000+',
   PROXIO_ABOUT_KEY_4: '艺术作品数量',
