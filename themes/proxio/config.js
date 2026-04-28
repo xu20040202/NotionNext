@@ -13,7 +13,7 @@ const CONFIG = {
   PROXIO_HERO_BUTTON_1_TEXT: '全部项目', // 英雄区按钮
   PROXIO_HERO_BUTTON_1_URL:
     'https://xubohao.vercel.app/archive', // 英雄区按钮
-  PROXIO_HERO_BUTTON_2_TEXT: '分类阅读', // 英雄区按钮
+  PROXIO_HERO_BUTTON_2_TEXT: '按类别阅读观看', // 英雄区按钮
   PROXIO_HERO_BUTTON_2_URL: 'https://xubohao.vercel.app/category', // 英雄区按钮
   PROXIO_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
 
