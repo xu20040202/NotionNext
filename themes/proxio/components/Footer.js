@@ -40,7 +40,7 @@ export const Footer = ({ title }) => {
               </span>
             </div>
             <div className='px-1'>{siteConfig('DESCRIPTION')}</div>
-            <div className='px-1'>{siteConfig('CONTACT_EMAIL')}</div>
+            <div className='px-1'>https://xubohao.vercel.app/</div>
           </div>
 
           {/* 右侧链接区块 */}
@@ -80,7 +80,6 @@ export const Footer = ({ title }) => {
           <div className='flex justify-between items-center gap-x-2'>
             <div className='flex items-center gap-x-4'>
               <AnalyticsBusuanzi />
-              <SocialButton />
             </div>
           </div>
         </div>
