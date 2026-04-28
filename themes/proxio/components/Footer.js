@@ -14,7 +14,7 @@ import SocialButton from './SocialButton'
 /**
  * 网页底脚
  */
-export const Footer = ({ title }) => {
+export const Footer = () => {
   const { siteInfo } = useGlobal()
   const PROXIO_FOOTER_LINKS = siteConfig('PROXIO_FOOTER_LINKS', [], CONFIG)
 
@@ -33,7 +33,7 @@ export const Footer = ({ title }) => {
                 width={24}
                 alt={siteConfig('AUTHOR')}
               />
-              <h1 className='text-lg'>{title}</h1>
+              <h1 className='text-lg'>许博皓的空间</h1>
               <span
                 className='underline font-bold justify-start'>
                 {siteConfig('AUTHOR')}
