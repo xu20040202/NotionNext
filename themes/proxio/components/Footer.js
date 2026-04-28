@@ -33,7 +33,7 @@ export const Footer = ({ title }) => {
                 width={24}
                 alt={siteConfig('AUTHOR')}
               />
-              <h1 className='text-lg'>许博皓的空间</h1>>
+              <h1 className='text-lg'>许博皓的空间</h1>
               <span
                 className='underline font-bold justify-start'>
                 {siteConfig('AUTHOR')}
