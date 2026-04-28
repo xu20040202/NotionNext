@@ -61,7 +61,7 @@ const CONFIG = {
     '将抽象概念转化为可被体验的内容，在团队中推动设计的实现与迭代',
 
     PROXIO_FEATURE_BUTTON_TEXT: '我的简历', // 按钮文字
-  PROXIO_FEATURE_BUTTON_URL: 'https://xubohao.vercel.app/article/example-14', // 按钮跳转
+  PROXIO_FEATURE_BUTTON_URL: 'https://xubohao.vercel.app/article/example-16', // 按钮跳转
 
   // 首页生涯区块
   PROXIO_CAREER_ENABLE: true, // 区块开关
@@ -187,7 +187,7 @@ const CONFIG = {
   PROXIO_ABOUT_KEY_4: '艺术作品数量',
   PROXIO_ABOUT_VAL_4: '20000+',
 
-    PROXIO_ABOUT_BUTTON_URL: 'https://xubohao.vercel.app/article/example-13',
+    PROXIO_ABOUT_BUTTON_URL: 'https://xubohao.vercel.app/article/example-15',
   PROXIO_ABOUT_BUTTON_TEXT: '我的生活',
 
   // 横向滚动文字
