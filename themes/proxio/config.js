@@ -217,7 +217,7 @@ const CONFIG = {
         {
           title: '分析文章',
           href: 'https://xubohao.vercel.app/category/%E5%88%86%E6%9E%90%E6%96%87%E7%AB%A0'
-        }
+        },
         {
           title: '个人概览',
           href: 'https://xubohao.vercel.app/category/%E4%B8%AA%E4%BA%BA%E6%A6%82%E8%A7%88'
@@ -229,7 +229,8 @@ const CONFIG = {
       menus: [
         { 
           title: '作者', 
-          href: 'https://xubohao.vercel.app/tag/%E4%BD%9C%E8%80%85' },
+          href: 'https://xubohao.vercel.app/tag/%E4%BD%9C%E8%80%85' 
+        },
         {
           title: '主导开发',
           href: 'https://xubohao.vercel.app/tag/%E4%B8%BB%E5%AF%BC%E5%BC%80%E5%8F%91'
@@ -245,7 +246,7 @@ const CONFIG = {
         {
           title: '视觉设计',
           href: 'https://xubohao.vercel.app/tag/%E8%A7%86%E8%A7%89%E8%AE%BE%E8%AE%A1'
-        }
+        },
         {
           title: '资产制作',
           href: 'https://xubohao.vercel.app/tag/%E8%B5%84%E4%BA%A7%E5%88%B6%E4%BD%9C'
