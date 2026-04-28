@@ -208,37 +208,47 @@ const CONFIG = {
   // 页脚菜单
   PROXIO_FOOTER_LINKS: [
     {
-      name: '友情链接',
+      name: '页面分类',
       menus: [
         {
-          title: 'Tangly的学习笔记',
-          href: 'https://blog.tangly1024.com'
+          title: '游戏项目',
+          href: 'https://xubohao.vercel.app/category/%E6%B8%B8%E6%88%8F%E9%A1%B9%E7%9B%AE'
         },
         {
-          title: 'NotionNext',
-          href: 'https://www.tangly1024.com'
+          title: '分析文章',
+          href: 'https://xubohao.vercel.app/category/%E5%88%86%E6%9E%90%E6%96%87%E7%AB%A0'
+        }
+         {
+          title: '个人概览',
+          href: 'https://xubohao.vercel.app/category/%E4%B8%AA%E4%BA%BA%E6%A6%82%E8%A7%88'
         }
       ]
     },
     {
-      name: '开发者',
+      name: '我的职责',
       menus: [
-        { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
+        { 
+          title: '作者', 
+          href: 'https://xubohao.vercel.app/tag/%E4%BD%9C%E8%80%85' },
         {
-          title: '开发帮助',
-          href: 'https://docs.tangly1024.com/article/how-to-develop-with-notion-next'
+          title: '主导开发',
+          href: 'https://xubohao.vercel.app/tag/%E4%B8%BB%E5%AF%BC%E5%BC%80%E5%8F%91'
         },
         {
-          title: '功能反馈',
-          href: 'https://github.com/tangly1024/NotionNext/issues/new/choose'
+          title: '独立制作',
+          href: 'https://xubohao.vercel.app/tag/%E7%8B%AC%E7%AB%8B%E5%88%B6%E4%BD%9C'
         },
         {
-          title: '技术讨论',
-          href: 'https://github.com/tangly1024/NotionNext/discussions'
+          title: '主策划',
+          href: 'https://xubohao.vercel.app/tag/%E4%B8%BB%E7%AD%96%E5%88%92'
         },
         {
-          title: '关于作者',
-          href: 'https://blog.tangly1024.com/about'
+          title: '视觉设计',
+          href: 'https://xubohao.vercel.app/tag/%E8%A7%86%E8%A7%89%E8%AE%BE%E8%AE%A1'
+        }
+         {
+          title: '资产制作',
+          href: 'https://xubohao.vercel.app/tag/%E8%B5%84%E4%BA%A7%E5%88%B6%E4%BD%9C'
         }
       ]
     }
