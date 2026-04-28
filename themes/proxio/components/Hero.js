@@ -36,7 +36,8 @@ export const Hero = props => {
         {!bannerIframe && bannerImage && (
           <LazyImage
             priority
-            className='w-full object-contain absolute h-screen left-0 top-0 pointer-events-none'
+            className='w-full h-screen absolute left-0 top-0 bg-center bg-contain bg-no-repeat'
+            style={{ backgroundImage: `url(${bannerImage})` }}
             src={bannerImage}
           />
         )}
