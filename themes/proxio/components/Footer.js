@@ -64,21 +64,24 @@ export const Footer = ({ title }) => {
           </div>
         </div>
 
-        {/* 页脚 */}
-        <div className='relative dark:text-gray-200 py-4 flex justify-between items-center border-t border-gray-600'>
-         {/* 左 */}
-         <div className='flex gap-x-2 items-center'>
-          <CopyRightDate />
-          <PoweredBy />
-         </div>
-         {/* 中间（绝对居中） */}
-         <div className='absolute left-1/2 -translate-x-1/2'>
-          <DarkModeButton className='dark:text-white' />
-         </div>
-         {/* 右 */}
-         <div className='flex items-center gap-x-4'>
-          <AnalyticsBusuanzi />
-         </div>
+        <div className='dark:text-gray-200 py-4 flex items-center border-t border-gray-600'>
+  
+          {/* 左 */}
+          <div className='flex-1 flex gap-x-2 items-center'>
+            <CopyRightDate />
+            <PoweredBy />
+          </div>
+
+          {/* 中 */}
+          <div className='flex-1 flex justify-center'>
+            <DarkModeButton className='dark:text-white' />
+          </div>
+
+          {/* 右 */}
+          <div className='flex-1 flex justify-end items-center gap-x-4'>
+            <AnalyticsBusuanzi />
+          </div>
+
         </div>
 
         {/* 备案 */}
