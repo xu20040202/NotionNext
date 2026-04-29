@@ -26,18 +26,14 @@ export const Footer = ({ title }) => {
         {/* 信息与链接区块 */}
         <div className='w-full flex lg:flex-row flex-col justify-between py-16'>
           <div className='gap-y-2 flex flex-col items-start dark:text-gray-200'>
-            <div className='flex gap-x-1'>
+            <div className='flex items-center gap-x-2'>
               <LazyImage
-                src={siteInfo?.icon}
+                src="/avatar.png"
                 className='rounded-full'
-                width={24}
-                alt={siteConfig('AUTHOR')}
+                width={28}
+                alt="avatar"
               />
-              <h1 className='text-lg'>{ title }</h1>
-              <span
-                className='underline font-bold justify-start'>
-                {siteConfig('AUTHOR')}
-              </span>
+              <h1 className='text-lg font-semibold'>许博皓的空间</h1>
             </div>
             <div className='px-1'>{siteConfig('DESCRIPTION')}</div>
             <div className='px-1'>https://xubohao.vercel.app/</div>
