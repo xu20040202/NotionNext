@@ -278,9 +278,9 @@ const CONFIG = {
   // 页面底部的行动呼吁模块
   PROXIO_CTA_ENABLE: true,
   PROXIO_CTA_TITLE: '与我建立联系',
-  PROXIO_CTA_TITLE_2: '种一颗树',
+  PROXIO_CTA_TITLE_2: '种一棵树',
   PROXIO_CTA_DESCRIPTION:
-    '一颗 一颗 一颗 一颗 一颗',
+    '一棵 一棵 一棵 一棵 一棵',
   PROXIO_CTA_BUTTON: true, // 是否显示按钮
   PROXIO_CTA_BUTTON_URL: '/about',
   PROXIO_CTA_BUTTON_TEXT: '联系我',
